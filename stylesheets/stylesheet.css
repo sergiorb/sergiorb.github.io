@@ -654,6 +654,16 @@ form {
   text-indent: 3px;
 }
 
+#aside h3 {
+  margin-top: 13px;
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #474747;
+  text-indent: 3px;
+}
+
 #main-content h3:before {
   padding-right: 0.3em;
   margin-left: -2em;
