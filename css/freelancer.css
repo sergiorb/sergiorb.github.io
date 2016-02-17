@@ -36,6 +36,10 @@ h6 {
     font-weight: 700;
 }
 
+.btn-scroll {
+    border-width: 1px;
+}
+
 /* --------------------------------------------- */
 hr.star-header {
     margin: 25px auto 30px;
